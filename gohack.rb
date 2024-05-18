@@ -6,6 +6,7 @@ class Gohack < Formula
   license ""
 
   # depends_on "cmake" => :build
+  #
   depends_on "bash" => :run
 
   def install

@@ -1,5 +1,5 @@
 # Golang Like Artisan
-[watch this repo](https://github.com/syaeful16/repository/subscription)
+
 **Gohack** is an artisan like Laravel that makes it easy to develop applications in the golang programming language. Gohack only supports development with MVC (model, view, controller) structure like Laravel.
 
 > I made automation like Laravel because I think it is very helpful in development.
@@ -48,18 +48,21 @@ Creating a model, controller and helper is the same command, it's just different
 ### Example
 
 **Model**
+
 This will create a file with the same function name as the input.
 
     gohack make model:user
     
 
 **Controller**
+
 The controller will create entries in the file in the form of Index, Show, Create, Update and Delete functions.
 
     gohack make controller:userController
     
 
 **Helper**
+
 The helper will also create the same function contents as the input file name.
 
     gohack make helper:jsonReponse
