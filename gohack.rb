@@ -2,7 +2,7 @@ class Gohack < Formula
   desc "Go hack to easy make golang api"
   homepage "https://github.com/syaeful16/go_script_shell"
   url "https://github.com/syaeful16/go_script_shell/archive/refs/tags/v1.0.3.tar.gz"
-  sha256 "5def77af09f55bc9a616a4ea980b780304977be81815dd55cc1c527a3d0bebfe"
+  sha256 "776685a9a75fdc035213a73b5c64b1aae18e5e3f94c00a346174d29323186e07"
   license ""
 
   # depends_on "cmake" => :build
